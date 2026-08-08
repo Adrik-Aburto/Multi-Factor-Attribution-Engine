@@ -47,5 +47,5 @@ Where:
 
 ## How to Run
 1. Clone this repository.
-2. Install the required dependencies: `pip install yfinance pandas-datareader statsmodels plotly seaborn`
+2. Install the required dependencies: `pip install yfinance pandas-datareader statsmodels plotly seaborn kaleido==0.2.1`
 3. Open the `.ipynb` notebook in Jupyter or Google Colab and run all cells sequentially.
