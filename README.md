@@ -29,7 +29,7 @@ Where:
 ![Factor Heatmap](Heatmap.png) 
 ### 2. Rolling 126-Day Factor Exposures (Style Drift)
 *Tracking how the market treats the stock over time. Apple maintains a high, stable market beta but exhibits shifting profitability and growth profiles.*
-![Rolling Betas](Factor Exposure.png) 
+![Rolling Betas](FactorExposure.png) 
 
 ### 3. Cumulative Return Attribution Waterfall
 *Decomposing a 5-year total excess return. Proves that the vast majority of positive performance was driven by broader market (MKT) beta rather than stock-specific alpha.*
