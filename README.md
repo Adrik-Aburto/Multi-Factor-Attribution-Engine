@@ -26,15 +26,14 @@ Where:
 
 ### 1. Factor Exposure Heatmap (Tech vs. Financials)
 *AAPL demonstrates strong Growth (negative HML) and Profitability (RMW) exposure, while JPM demonstrates classic Value (positive HML) characteristics.*
-![Factor Heatmap](Heatmap.png) *(Note: Rename this file to whatever your actual heatmap image is named before uploading)*
-
+![Factor Heatmap](Heatmap.png) 
 ### 2. Rolling 126-Day Factor Exposures (Style Drift)
 *Tracking how the market treats the stock over time. Apple maintains a high, stable market beta but exhibits shifting profitability and growth profiles.*
-![Rolling Betas](Factor Exposure.png) *(Note: Update file name)*
+![Rolling Betas](Factor Exposure.png) 
 
 ### 3. Cumulative Return Attribution Waterfall
 *Decomposing a 5-year total excess return. Proves that the vast majority of positive performance was driven by broader market (MKT) beta rather than stock-specific alpha.*
-![Waterfall Chart](Waterfall.png) *(Note: Update file name)*
+![Waterfall Chart](Waterfall.png) 
 
 ## Technology Stack
 * **Languages:** Python
