@@ -41,9 +41,9 @@ Where:
 ## Technology Stack
 * **Languages:** Python
 * **Data Manipulation:** `pandas`, `numpy`
-* **Statistical Modeling:** `statsmodels`, `scipy`
+* **Statistical Modeling:** `statsmodels`
 * **Data Acquisition:** `yfinance`, `pandas_datareader`
-* **Visualization:** `plotly`, `matplotlib`, `seaborn`
+* **Visualization & Export:** `plotly`, `matplotlib`, `seaborn`, `kaleido`
 
 ## How to Run
 1. Clone this repository.
